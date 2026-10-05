@@ -1,3 +1,5 @@
+![Vagus Pines Brain Trust](./banner.png)
+
 # Vagus Pines
 
 An open protocol for gold-backed art certificates, cooperative governance, and art-secured lending.
